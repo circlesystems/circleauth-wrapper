@@ -1,8 +1,8 @@
 {
   "name": "@habloapp/unicauth-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unic Auth wrapper for Unic Auth SDK.",
-  "main": "./lib",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/habloapp/unicauth-wrapper.git"
@@ -23,10 +23,7 @@
     "website": "https://unicauth.com"
   },
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/habloapp/unicauth-wrapper/issues"
-  },
-  "homepage": "https://github.com/habloapp/unicauth-wrapper#readme",
+  "homepage": "https://unicauth.com/alpha",
   "dependencies": {
     "esm": "^3.2.25",
     "@habloapp/unicauth": "1.0.x"
