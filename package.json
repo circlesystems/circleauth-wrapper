@@ -1,0 +1,35 @@
+{
+  "name": "@habloapp/unicauth-wrapper",
+  "version": "1.0.0",
+  "description": "Unic Auth wrapper for Unic Auth SDK.",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habloapp/unicauth-wrapper.git"
+  },
+  "keywords": [
+    "unicauth",
+    "auth",
+    "authn",
+    "authentication",
+    "authz",
+    "authorization",
+    "2fa",
+    "passwordless"
+  ],
+  "author": {
+    "name": "HabloApp Inc.",
+    "email": "info@unicauth.com",
+    "website": "https://unicauth.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habloapp/unicauth-wrapper/issues"
+  },
+  "homepage": "https://github.com/habloapp/unicauth-wrapper#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "@habloapp/unicauth": "1.0.x"
+  },
+  "scripts": {}
+}
