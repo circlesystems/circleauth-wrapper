@@ -1,6 +1,6 @@
 {
   "name": "@habloapp/unicauth-wrapper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Unic Auth wrapper for Unic Auth SDK.",
   "main": "lib/index.js",
   "repository": {
