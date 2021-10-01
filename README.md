@@ -46,3 +46,9 @@ try {
 * unicauthwrapper.getSession(s)
 * unicauthwrapper.getUserSession(sessionID, userID)
 * unicauthwrapper.expireUserSession(sessionID, userID)
+
+## Distribuition
+
+1.  Update package `version` at `package.json`.
+2.  Open terminal and run `npm publish`.
+3.  Visit https://www.npmjs.com/package/@habloapp/unicauth-wrapper to check latest version.
