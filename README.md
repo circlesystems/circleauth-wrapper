@@ -7,7 +7,7 @@ Circle Auth allows you to quickly implement userless/passwordless login and 2FA 
 
 ## Installation
 
-First make sure to get your credentials on [Circle Auth Console](https://console.gocircle.com/), if you want to test first, use [Circle Auth - Demo](https://circleauth.gocircle.ai/demo)
+First make sure to get your credentials on [Circle Auth Console](https://console.gocircle.ai/), if you want to test first, use [Circle Auth - Demo](https://circleauth.gocircle.ai/demo)
 
 ### For [Node.js](https://nodejs.org/)
 
@@ -16,7 +16,7 @@ First make sure to get your credentials on [Circle Auth Console](https://console
 Install it via:
 
 ```shell
-npm install @habloapp/unicauth-wrapper --save
+npm install @circlesystems/circleauth-wrapper --save
 ```
 
 ## Getting Started
@@ -24,7 +24,7 @@ npm install @habloapp/unicauth-wrapper --save
 Please follow the [installation](#installation) instruction and execute the following JS code:
 
 ```javascript
-var circleauthwrapper = require('@habloapp/unicauth-wrapper');
+var circleauthwrapper = require('@circlesystems/circleauth-wrapper');
 
 circleauthwrapper.configure({
   appKey: APPLICATION_APPKEY,
