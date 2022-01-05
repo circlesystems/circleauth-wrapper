@@ -1,4 +1,4 @@
-# Circle Auth
+# Circle Auth Wrapper
 
 Circle Auth Wrapper - Node.js client for [Circle Auth API](https://circleauth.gocircle.ai/docs/)
 <br>
