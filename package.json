@@ -1,6 +1,6 @@
 {
   "name": "@circlesystems/circleauth-wrapper",
-  "version": "1.1.7",
+  "version": "1.2.0",
   "description": "Circle Auth wrapper for Circle Auth SDK.",
   "main": "lib/index.js",
   "repository": {
