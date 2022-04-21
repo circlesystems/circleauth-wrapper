@@ -43,7 +43,7 @@ try {
 
 * circleauthwrapper.configure(config)
 * circleauthwrapper.create2FA(customID, returnUrl, webhookUrl, phone, email, question, userID, mobileReturnUrl)
-* circleauthwrapper.getSession(s)
+* circleauthwrapper.getSession(sessionID)
 * circleauthwrapper.getUserSession(sessionID, userID)
 * circleauthwrapper.expireUserSession(sessionID, userID)
 
