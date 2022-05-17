@@ -1,13 +1,13 @@
 {
   "name": "@circlesystems/circleauth-wrapper",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Circle Auth wrapper for Circle Auth SDK.",
-  "main": "lib/index.js",
+  "main": "lib/index.cjs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/circlesystems/circleauth-wrapper.git"
   },
-  "type":"module",
+  "type": "module",
   "keywords": [
     "circleauth",
     "circleaccess",
@@ -19,16 +19,18 @@
     "2fa",
     "passwordless"
   ],
-  "author": {
-    "name": "Circle Systems Inc.",
-    "email": "support@gocircle.ai",
-    "website": "https://circleauth.gocircle.ai"
-  },
+  "author": "Circle Systems Inc. <support@gocircle.ai>",
   "license": "ISC",
   "homepage": "https://circleauth.gocircle.ai",
   "dependencies": {
     "esm": "^3.2.25",
     "@circlesystems/circleauth": "^1.2.5"
   },
-  "scripts": {}
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/circlesystems/circleauth-wrapper/issues"
+  },
+  "directories": {
+    "lib": "lib"
+  }
 }
