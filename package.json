@@ -1,12 +1,13 @@
 {
   "name": "@circlesystems/circleauth-wrapper",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Circle Auth wrapper for Circle Auth SDK.",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/circlesystems/circleauth-wrapper.git"
   },
+  "type":"module",
   "keywords": [
     "circleauth",
     "circleaccess",
@@ -27,7 +28,7 @@
   "homepage": "https://circleauth.gocircle.ai",
   "dependencies": {
     "esm": "^3.2.25",
-    "@circlesystems/circleauth": "^1.2.3"
+    "@circlesystems/circleauth": "^1.2.4"
   },
   "scripts": {}
 }
